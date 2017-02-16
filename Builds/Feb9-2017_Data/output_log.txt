@@ -1,0 +1,132 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(TM) Graphics 540 (ID=0x1926)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4454
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Andy\Documents\Unity\TSP Experiment\Builds\Feb9-2017_Data\Managed\System.dll (this message is harmless)
+desktop: 3200x1800 60Hz; virtual: 11520x2700 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.066666 ms
+Loading Layout 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IsolatedStorageException: Could not find file "C:\Users\Andy\Documents\Unity\TSP Experiment\Layouts\Layout0.txt".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenText (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllLines (System.String path) [0x00000] in <filename unknown>:0 
+  at SceneSetterController.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Participant ID = 69
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Searching for layouts in: C:\Users\Andy\Documents\Unity\TSP Experiment\Layouts
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5 layouts found in directory.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.508057 ms
+Loading Layout 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 475.
+Total: 0.248579 ms (FindLiveObjects: 0.020405 ms CreateObjectMapping: 0.015768 ms MarkObjects: 0.179942 ms  DeleteObjects: 0.007884 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.402550 ms
+Loading Layout 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 475.
+Total: 0.452173 ms (FindLiveObjects: 0.055652 ms CreateObjectMapping: 0.049159 ms MarkObjects: 0.332985 ms  DeleteObjects: 0.013449 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.415536 ms
+Loading Layout 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 475.
+Total: 0.509217 ms (FindLiveObjects: 0.054724 ms CreateObjectMapping: 0.022260 ms MarkObjects: 0.422956 ms  DeleteObjects: 0.008811 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.415072 ms
+Loading Layout 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 475.
+Total: 0.465159 ms (FindLiveObjects: 0.102956 ms CreateObjectMapping: 0.018086 ms MarkObjects: 0.335768 ms  DeleteObjects: 0.007420 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.634898 ms
+Loading Layout 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 475.
+Total: 0.488811 ms (FindLiveObjects: 0.066318 ms CreateObjectMapping: 0.053333 ms MarkObjects: 0.361275 ms  DeleteObjects: 0.006028 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2f60 -> priority: 1 
